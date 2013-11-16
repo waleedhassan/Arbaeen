@@ -7,4 +7,4 @@ ChangeLog:
 
 **Version 0.1**
 
-*first release
+* first release
